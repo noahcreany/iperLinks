@@ -6,7 +6,7 @@ A curated list of data wrangling, analysis, visualization, and tools
 <summary>Visualizations</summary>
 
 ### Colors
-- ![Paul Tol's Notes- Color Schemes](https://personal.sron.nl/~pault/)
+- [Paul Tol's Notes- Color Schemes](https://personal.sron.nl/~pault/)
 
 
 ### Python
