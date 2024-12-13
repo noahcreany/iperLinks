@@ -21,11 +21,12 @@ A curated list of data wrangling, analysis, visualization, and tools
 #### Figure Annotation
 - [Matplotlib Equations](https://matplotlib.org/stable/tutorials/text/mathtext.html#writing-mathematical-expressions)
 - [Matplotlib Annotations](https://matplotlib.org/stable/users/explain/text/annotations.html#advanced-annotation) 
-</details>
 
 #### Dashboards
 - [Quarto Dashboards](https://shiny.posit.co/py/gallery/)
 - [pyShiny Components](https://jcheng.shinyapps.io/shiny-component-browser/#outputs)
+
+</details>
 
 ## Python
 <details>
