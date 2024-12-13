@@ -27,10 +27,8 @@ A curated list of data wrangling, analysis, visualization, and tools
 - [Quarto Dashboards](https://shiny.posit.co/py/gallery/)
 - [pyShiny Components](https://jcheng.shinyapps.io/shiny-component-browser/#outputs)
 
+## Python
 <details>
-
-<summary>Python</summary>
-
 <details>
 
 <summary>Configuration</summary>
