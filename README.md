@@ -3,9 +3,13 @@ A curated list of data wrangling, analysis, visualization, and tools
 
 <details>
 
-<summary>Tips for collapsed sections</summary>
+<summary>Visualizations</summary>
 
-### You can add a header
+### Colors
+- ![Paul Tol's Notes- Color Schemes](https://personal.sron.nl/~pault/)
+
+
+### Python
 
 You can add text within a collapsed section. 
 
