@@ -47,6 +47,8 @@ A curated list of data wrangling, analysis, visualization, and tools
 
 </details>
 
+<details>
+
 <summary>Geospatial</summary>
 
 - [Setting up pyQGIS](https://prasaz.medium.com/how-to-setup-pyqgis-with-spyder-b1459c955b97)
