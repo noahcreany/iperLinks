@@ -13,7 +13,7 @@ A curated list of data wrangling, analysis, visualization, and tools
 - [Paul Tol's Notes- Color Schemes](https://personal.sron.nl/~pault/)
 - [Palettable Colors](https://jiffyclub.github.io/palettable/)
 - [Seaborn Color Palettes](https://www.practicalpythonfordatascience.com/ap_seaborn_palette)
-- [Matplotlib Colors](https://matplotlib.org/stable/gallery/style_sheets/style_sheets_reference.html)
+- [Matplotlib Colors](https://matplotlib.org/stable/gallery/color/named_colors.html#css-colors)
 
 #### Figure Styling
 - [Matplotlib Style Gallery](https://matplotlib.org/stable/gallery/style_sheets/style_sheets_reference.html)
