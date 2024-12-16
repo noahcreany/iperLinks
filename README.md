@@ -28,11 +28,11 @@ A curated list of data wrangling, analysis, visualization, and tools
 
 </details>
 
-<details>
+
 <!-- Python----------------------------------------------------------------------------------------------------------------------------------------------------------------------->
 ## Python
 
-
+<details>
 <summary>Configuration</summary>
 
 - [Setting up pyQGIS](https://prasaz.medium.com/how-to-setup-pyqgis-with-spyder-b1459c955b97)
@@ -49,7 +49,6 @@ A curated list of data wrangling, analysis, visualization, and tools
 - [CUDA installation](https://docs.nvidia.com/cuda/cuda-installation-guide-microsoft-windows/index.html#install-cuda-software)
 - [CUDA/Numba Code Execution](https://medium.com/geekculture/executing-a-python-script-on-gpu-using-cuda-and-numba-in-windows-10-1a1b10c29c9)
 
-</details>
 </details>
 
 <details>
