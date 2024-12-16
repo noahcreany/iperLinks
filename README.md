@@ -51,9 +51,10 @@ A curated list of data wrangling, analysis, visualization, and tools
 
 </details>
 
+## Analysis/Statistics
 <details>
 <!-- Analysis/Statistics----------------------------------------------------------------------------------------------------------------------------------------------------------------------->
-<summary>Analysis/Statistics</summary>
+<summary>Courses/Reference</summary>
 
 - [MIT Course- Probability & Statistics](https://math.mit.edu/~dav/05.dir/05.html)
 </details>
