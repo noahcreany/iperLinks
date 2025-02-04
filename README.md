@@ -33,6 +33,12 @@ A curated list of data wrangling, analysis, visualization, and tools
 ## Python
 
 <details>
+<summary>Base Python</summary>
+
+- [f-string formatting cheatsheet](https://github.com/noahcreany/iperLinks/blob/a28e38f3aa40983e71a6678cd276bb0eb5f49275/files/python_f_string_cheatsheet.pdf)
+</details>
+
+<details>
 <summary>Configuration</summary>
 
 - [Setting up pyQGIS](https://prasaz.medium.com/how-to-setup-pyqgis-with-spyder-b1459c955b97)
